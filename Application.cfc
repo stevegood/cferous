@@ -1,6 +1,6 @@
 component displayname="Application" output="false"{
 	
-	this.name = "cferous";
+	this.name = "cferous-sample";
 	
 	public boolean function onApplicationStart(){
 		return true;
